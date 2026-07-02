@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_panaderia",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/core": "^8.4.1",
+    "firebase": "^12.15.0",
+    "vue": "^3.5.38",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.4.1",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "vite": "^8.1.0"
+  }
+}

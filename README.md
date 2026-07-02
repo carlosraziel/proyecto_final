@@ -32,6 +32,7 @@ Sigue estos pasos para levantar el servidor de desarrollo:
 
 1. **Clonar el repositorio:**
 2. **O puedes descargar el archivo ZIP**
+3. **Pon el proyecto en en disco y en la consola o terminal ve a la direccion de la caperta y por los comados ntm**
    
    ```bash
    git clone [https://github.com/carlosraziel/proyecto_final.git](https://github.com/carlosraziel/proyecto_final.git)

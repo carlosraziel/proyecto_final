@@ -22,7 +22,7 @@ Este proyecto es una aplicación web y móvil (Full-Stack) desarrollada para ges
 Para poder ejecutar este proyecto localmente, el equipo debe contar con:
 * [Node.js](https://nodejs.org/) (versión 16 o superior)
 * npm (incluido con Node.js)
-* Git instalado
+* GitHub instalado(si se desea clonar el repositorio)
 
 ---
 

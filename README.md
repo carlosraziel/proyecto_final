@@ -31,6 +31,8 @@ Para poder ejecutar este proyecto localmente, el equipo debe contar con:
 Sigue estos pasos para levantar el servidor de desarrollo:
 
 1. **Clonar el repositorio:**
+2. **O puedes descargar el archivo ZIP**
+   
    ```bash
    git clone [https://github.com/carlosraziel/proyecto_final.git](https://github.com/carlosraziel/proyecto_final.git)
    
